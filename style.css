@@ -14,3 +14,23 @@
 .header__banner {
     width: 400px;
 }
+
+/* recipe collection */
+
+.recipes-collection {
+    background-color: rgba(100, 33,255, 0.1);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipes-collection__title {
+    color: greenyellow;
+    font-style: italic;
+    text-align: center;
+}
+
+.recipes-collection__list {
+    font-size: 20px;
+
+}
+
+/* recipe */
