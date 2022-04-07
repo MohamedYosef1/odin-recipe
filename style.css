@@ -1,0 +1,16 @@
+.header {
+    box-shadow: 2px rgba(0, 0,0,0.2);
+    background-color:aqua;
+}
+
+.header__title {
+    color: blanchedalmond;
+    text-align:center;
+    font-size: 40px;
+    font-style: italic;
+    border: 1px solid grey;
+}
+
+.header__banner {
+    width: 400px;
+}
